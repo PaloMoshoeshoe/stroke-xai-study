@@ -1,4 +1,4 @@
-# stroke-xai-study
+# Testing the Predictive Performance/Interpretability Trade-off: A Performance and Fidelity Study on Structured Data
 
 **Can intrinsically interpretable models match black-box models on a structured medical-style classification task, and how faithfully can they imitate them?**
 
