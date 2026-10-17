@@ -1,6 +1,6 @@
 # Testing the Predictive Performance/Interpretability Trade-off: A Performance and Fidelity Study on Structured Data
 
-**Can intrinsically interpretable models match black-box models on a structured medical-style classification task, and how faithfully can they imitate them?**
+**how well can intrinsically interpretable models match black-box models on a structured classification task, and how faithfully can they imitate them?**
 
 This repository implements the experimental design of a Chapter 3 methodology (research design, preprocessing, models, evaluation, surrogate fidelity and statistics) on the public Kaggle *Stroke Prediction Dataset*. It compares interpretable models against black-box models under one controlled protocol, then trains the interpretable models as **global surrogates** of each black box to measure how closely they reproduce its decisions, including its mistakes.
 
